@@ -1,0 +1,37 @@
+h1{
+  font-family:tahoma;
+  color:yellow;
+  text-align:center;
+  font-size:90px;
+}
+
+body{
+  background-image: url("CSCE Logo.jpg");
+  background-repeat: no-repeat;
+  background-attachment: float;
+  background-position: right-bottom;
+  background-size: 100%;
+}
+
+.form{
+  font-family:arial;
+  background-color:grey;
+  color:white;
+  margin:150px;
+  padding:20px;
+  border-radius:30px;
+  text-align:center;
+  position:static;
+}
+
+#input{
+  border-radius:10px;
+  test-align:center;
+  background-color:lightblue;
+}
+
+#submit{
+  border-radius:20px;
+  background-color:darkblue;
+  color:white;
+}

@@ -1,0 +1,43 @@
+h1{
+  font-family: Arial Black, Tahoma;
+  text-align:center;
+  color:white;
+  height: 30px;
+  font-size:40px;
+}
+
+h2{
+  font-family: asap;
+  text-align:center;
+  color:yellow;
+  height: 10px;
+}
+
+h3{
+  font-family: asap;
+  text-align:center;
+  color:yellow;
+  font-size:110%;
+}
+
+body{
+  font-family: arial;
+  text-align: justify;
+color: white;
+  background-image: url("CSCE Logo.jpg");
+  background-repeat: no-repeat;
+  background-attachment: float;
+  background-position: right-bottom;
+  background-size: 100%;
+  margin: 10px;
+  padding: 10px;
+}
+
+img.align-center {
+display: block;
+margin: 0px auto;
+}
+img.medium {
+width: 250px;
+height: 250px;
+}
